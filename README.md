@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @manish774
-- 👀 I’m interested in JavaScript, JavaScript Frameworks, Js libs.
-- 🌱 I’m currently lworking on Javascript
+- 👀 I’m interested in React, Typescript, JavaScript, JavaScript Frameworks, Js libs.
+- 🌱 I’m currently working as a frontend developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
