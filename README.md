@@ -60,11 +60,11 @@ Passionate about building scalable, accessible, and high-performance web applica
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=mansih774&show_icons=true&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=manish774&show_icons=true&theme=tokyonight)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=mansih774&theme=tokyonight)
+![](https://github-readme-streak-stats.herokuapp.com/?user=manish774&theme=tokyonight)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mansih774&layout=compact&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=manish774&layout=compact&theme=tokyonight)
 
 </div>
 
